@@ -1,0 +1,4 @@
+DictVer : *-*-*-*
+
+#SEGVER : DICTVER
+VerMap *-*-*-* : *-*-*-*

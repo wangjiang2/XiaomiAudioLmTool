@@ -1,0 +1,16 @@
+if there is not dictionary resource, please in build_dict
+
+cd build_dict
+./build_resource.sh dictionary_file
+cd ..
+
+and modify config file
+
+cd offline_word_splitter/conf/
+vim scw.conf
+replace value of Language_dict path
+
+then
+
+./run.sh file > split.txt 
+

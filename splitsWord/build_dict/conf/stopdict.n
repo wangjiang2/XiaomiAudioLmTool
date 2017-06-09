@@ -1,0 +1,3 @@
+hash_num : 100
+node_num : 31
+cur_code : 31
